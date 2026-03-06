@@ -2,8 +2,6 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://faahim.github.io/happy-birthday/)
-
 It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
 Feel free to use it to wish your friend if you want.
@@ -23,3 +21,4 @@ I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap)
 If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Stay happy and keep the people you care about happy. :)
+
